@@ -1,2 +1,2 @@
-# Cats-vs-Dogs
-Python neutral network 
+# Cats-vs-Dog
+Нейронока на Python (на данный момент не дописанна)
