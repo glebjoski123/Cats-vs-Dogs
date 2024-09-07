@@ -14,3 +14,7 @@ from sklearn.metrics import accuracy_score
 
 import imgaug.augmenters as iaa
 import albumentations as A
+
+# Датасет для обучения нейронки
+
+x = load.dataset()
